@@ -1,0 +1,45 @@
+[+] Containers:
+ |- [+] Container: /Temp/Untitled_1
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0D225AE84F005178DE2BAF8F242D760D BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_B42E99A43AFA267C01_1557352792 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7486CF3B4388BD629D1F389C9CB4F1E2 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_B42E99A43AFA267C01_1575639795 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=457.634 Y=-300.441 Z=14.591), Max=(X=457.634 Y=-300.441 Z=14.591) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:992C212D48C731A5E7CB1B8527CBDF95 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D0E9792F409A2F4F09F7118C3FE7F967 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_B42E99A43AFA267C01_1563892793 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=413.403 Y=-268.498 Z=100.759), Max=(X=413.403 Y=-268.498 Z=100.759) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:F01FEA0F42278BD322F900B0F3FDEF80 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_B42E99A43AFA267C01_1568726794 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=343.697 Y=-26.603 Z=205.598), Max=(X=343.697 Y=-26.603 Z=205.598) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:992C212D48C731A5E7CB1B8527CBDF95 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0D225AE84F005178DE2BAF8F242D760D BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_B42E99A43AFA267C01_1557352792 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:D0E9792F409A2F4F09F7118C3FE7F967 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_B42E99A43AFA267C01_1563892793 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=413.403 Y=-268.498 Z=100.759), Max=(X=413.403 Y=-268.498 Z=100.759) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:F01FEA0F42278BD322F900B0F3FDEF80 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_B42E99A43AFA267C01_1568726794 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=343.697 Y=-26.603 Z=205.598), Max=(X=343.697 Y=-26.603 Z=205.598) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:7486CF3B4388BD629D1F389C9CB4F1E2 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_B42E99A43AFA267C01_1575639795 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=457.634 Y=-300.441 Z=14.591), Max=(X=457.634 Y=-300.441 Z=14.591) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Temp/Untitled_1
+----------------------------------------------------------------------------------------------------------------
+Untitled - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 16 
+
+----------------------------------------------------------------------------------------------------------------
+Untitled - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+

@@ -1,0 +1,27 @@
+Binaries
+Build
+DerivedDataCache
+Intermediate
+!Intermediate/ProjectFiles
+Intermediate/ProjectFiles/.Rider
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+.idea
+
+Plugins/Developer/RiderLink
+
+## Media files
+*.avi
+*.mp4
+*.mov
+*.exr
+*.tif

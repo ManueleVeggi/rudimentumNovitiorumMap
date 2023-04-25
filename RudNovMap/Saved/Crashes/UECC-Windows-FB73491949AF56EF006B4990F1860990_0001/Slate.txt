@@ -1,0 +1,3 @@
+Thread: Game
+Context:'Paint' Type:'SWindow' Tag:'None' Location:'D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\MenuStack.cpp_454'
+Context:'Prepass' Type:'SMultiBoxWidget' Tag:'None' Location:'D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\MultiBox\MultiBox.cpp_427'
