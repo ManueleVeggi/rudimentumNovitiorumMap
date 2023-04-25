@@ -1,3 +1,5 @@
-2023/04/25-09:07:14.281 664 Reusing MANIFEST C:/Users/emplus/Desktop/Manuele Veggi Visiting Student/RudNovMap/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/04/25-09:07:14.289 664 Recovering log #3
-2023/04/25-09:07:14.290 664 Reusing old log C:/Users/emplus/Desktop/Manuele Veggi Visiting Student/RudNovMap/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/04/25-14:28:18.771 454 Reusing MANIFEST C:/Users/emplus/Desktop/rudimentumNovitorumMap/RudNovMap/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/04/25-14:28:18.772 454 Recovering log #3
+2023/04/25-14:28:18.773 454 Level-0 table #3: started
+2023/04/25-14:28:18.777 454 Level-0 table #3: 11934 bytes OK
+2023/04/25-14:28:18.780 454 Delete type=0 #3

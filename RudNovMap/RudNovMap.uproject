@@ -12,7 +12,7 @@
 			]
 		},
 		{
-			"Name": "Water",
+			"Name": "NiagaraFluids",
 			"Enabled": true
 		}
 	]
