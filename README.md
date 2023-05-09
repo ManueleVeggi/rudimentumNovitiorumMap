@@ -13,6 +13,8 @@ Developed in Unreal Engine 5.1, it reproduces a part of the world (the landscape
 
 Besides the actual development of the environment and of its actors´ behaviors, the project also required an analysis and translation of the original Latin manuscript. Indeed, every event happening in the digital map is a reconstruction of the stories described in the _Rudimentum_. 
 
+<p align="center"> <img src="RudNovMap/Saved/Screenshots/WindowsEditor/ScreenShot00000.png" style="width: 50%"> </p>
+
 ### Roadmap
 
 | **Week**                  | **Tasks**                                                                                                                                                                                                                                                                    |
