@@ -9,9 +9,8 @@ The project is a prototype of a design proposal elaborated by Khajehnouri Shayan
 It consists of an immersive and interactive environment for Panorama+ Visualization System based on the map contained in the "Rudimentum Novitiorum" (1475):
 <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/1475_Rudimentum_Novitorum_Lucas_brandis.jpg" style="width: 50%"> </p>
 
-Developed in Unreal Engine 5.1, it reproduces a part of the world (the landscape now corresponds to Asia, even though onlz the upper right quarter of the map has been populated) and provides a sample of animation (sample scenario: Ophir).
+Developed in Unreal Engine 5.1, it reproduces a part of the world (the landscape now corresponds to Asia, even though onlz the upper right quarter of the map has been populated) and provides a sample of animation (sample scenario: Ophir) based on the text of the manuscript.
 
-Besides the actual development of the environment and of its actors´ behaviors, the project also required an analysis and translation of the original Latin manuscript. Indeed, every event happening in the digital map is a reconstruction of the stories described in the _Rudimentum_. 
 
 <!-- <p align="center"> <img src="RudNovMap/Saved/Screenshots/WindowsEditor/ScreenShot00000.png" style="width: 50%"> </p> -->
 
