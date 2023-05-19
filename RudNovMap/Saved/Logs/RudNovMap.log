@@ -1445,3 +1445,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.19-08.29.22:257][356]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{233dcf09-8569-47d3-9350-67a57406ecd1}, Name=BenQ PD2700U (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=40.44
 [2023.05.19-08.29.22:257][356]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2023.05.19-08.29.22:259][356]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.19-08.32.55:780][997]LogDerivedDataCache: C:/Users/emplus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:39.080 and deleted 0 files with total size 0 MiB. Scanned 20414 files in 19450 folders with total size 1954 MiB.
+[2023.05.19-08.39.51:180][243]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.05.19-08.39.51:447][243]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8480
+[2023.05.19-08.39.51:783][244]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d5114c5a-91e2-42c1-8250-fd850bcf9a21}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.00
+[2023.05.19-08.39.51:783][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.19-08.39.51:785][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.19-08.49.05:267][905]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=BenQ PD2700U (NVIDIA High Definition Audio), InstanceID=1
+[2023.05.19-08.49.05:541][905]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8480
+[2023.05.19-08.49.05:874][906]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{233dcf09-8569-47d3-9350-67a57406ecd1}, Name=BenQ PD2700U (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=52.24
+[2023.05.19-08.49.05:874][906]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.19-08.49.05:876][906]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
