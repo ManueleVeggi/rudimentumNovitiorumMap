@@ -6,8 +6,12 @@ Immersive environment based on the world map printed in the "Rudimentum Novitior
 
 The project is a prototype of a design proposal elaborated by Khajehnouri Shayan, Daghfal Mariella and Tang Cindy in the framework of the course [Cultural Data Sculpting](https://edu.epfl.ch/coursebook/en/cultural-data-sculpting-DH-404), held by Prof Kenderdine for the MSc in "Digital Humanities" at EPFL.
 
-It consists of an immersive and interactive environment for Panorama+ Visualization System based on the map contained in the "Rudimentum Novitiorum" (1475):
-<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/1475_Rudimentum_Novitorum_Lucas_brandis.jpg" style="width: 50%"> </p>
+It consists of an immersive and interactive environment for Panorama+ Visualization System based on the map contained in the "[Rudimentum Novitiorum](https://upload.wikimedia.org/wikipedia/commons/5/54/1475_Rudimentum_Novitorum_Lucas_brandis.jpg)" (1475). Click on the thumbnail to see a trailer of the project:
+
+<p align="center"> <a href="http://www.youtube.com/watch?feature=player_embedded&v=sH4BQbmq-i8" target="_blank">
+ <img src="http://img.youtube.com/vi/sH4BQbmq-i8/mqdefault.jpg" alt="Watch the video" width="500" height="320" border="10" />
+</a>
+</p>
 
 Developed in Unreal Engine 5.1, it reproduces a part of the world (the landscape now corresponds to Asia, even though onlz the upper right quarter of the map has been populated) and provides a sample of animation (sample scenario: Ophir) based on the text of the manuscript.
 
